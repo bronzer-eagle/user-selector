@@ -1,0 +1,33 @@
+.search {
+
+  width: 300px;
+
+  &--input {
+
+    width: 100%;
+
+  }
+
+  &--autocomplete {
+
+    border: 1px solid #eeeeee;
+
+  }
+
+  &--autocomplete-error,
+  &--autocomplete-no-results {
+
+    text-align: center;
+
+    padding: 5px 8px;
+    margin: 0;
+
+  }
+
+  &--autocomplete-error {
+
+    background: #f19484;
+
+  }
+
+}
