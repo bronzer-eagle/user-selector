@@ -1,7 +1,7 @@
-#User select app
+# User select app
 Some test app using react and react hooks
 
-##Installation
+## Installation
 I've used `yarn` and all cli commands use `yarn`.
 **So make sure you have installed `yarn` on your computer**
 
